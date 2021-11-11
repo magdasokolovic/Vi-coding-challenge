@@ -3,3 +3,9 @@
 /* Add your global styles here */
 
 @include vendor-normalize-css;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto+Condensed&display=swap');
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
